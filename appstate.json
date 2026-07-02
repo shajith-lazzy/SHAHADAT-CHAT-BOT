@@ -1,1 +1,56 @@
-এখানের টেক্সট গুলো কেটে আপনার ফেসবুক আইডির কুকি বসান ✅
+[
+	{
+		"key": "datr",
+		"value": "wDhGaiu73bXve7TyXPpuXXL8",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-07-02T19:19:02.564Z",
+		"lastAccessed": "2026-07-02T19:19:02.564Z"
+	},
+	{
+		"key": "pas",
+		"value": "61580484787599%3AKE7qhYQfqo",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-07-02T19:19:02.564Z",
+		"lastAccessed": "2026-07-02T19:19:02.564Z"
+	},
+	{
+		"key": "vpd",
+		"value": "v1%3B736x393x2.75",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-07-02T19:19:02.564Z",
+		"lastAccessed": "2026-07-02T19:19:02.564Z"
+	},
+	{
+		"key": "fr",
+		"value": "0BLx2AZboVSsvf6qI.AWf5o8DTaV4Dr0i1RXA1e3UIpVfvlb5a9ZkkwORbUCyWBK-EQYg.BqRjjA..AAA.0.0.BqRrjI.AWdYgIQgjDX5OKDVrHp8ydgccNo",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-07-02T19:19:02.564Z",
+		"lastAccessed": "2026-07-02T19:19:02.564Z"
+	},
+	{
+		"key": "fbl_st",
+		"value": "101737606%3BT%3A29716995",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-07-02T19:19:02.564Z",
+		"lastAccessed": "2026-07-02T19:19:02.564Z"
+	},
+	{
+		"key": "wl_cbv",
+		"value": "v2%3Bclient_version%3A3204%3Btimestamp%3A1783019721",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-07-02T19:19:02.564Z",
+		"lastAccessed": "2026-07-02T19:19:02.564Z"
+	}
+]
